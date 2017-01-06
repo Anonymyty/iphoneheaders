@@ -1,0 +1,1 @@
+Run `./packageMe` to fully make package.bz2 file 
