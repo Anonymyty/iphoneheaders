@@ -1,6 +1,0 @@
-#!/bin/bash
-
-./dpkg-scanpackages Debs /dev/null > Packages;
-
-rm Packages.bz2;
-bzip2 -z Packages

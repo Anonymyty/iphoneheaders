@@ -1,5 +1,5 @@
 #!/private/var/db/stash/_.Gg8VfP/bin/perl
-push(@INC, '/usr/bin/dpkg-gettext.pl');
+push(@INC, '/use/bin/dpkg-gettext.pl');
 
 use warnings;
 use strict;
