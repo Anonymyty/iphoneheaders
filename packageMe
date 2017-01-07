@@ -1,8 +1,9 @@
 #!/bin/bash
 
-rm Packages;
-
 ./dpkg-scanpackages debs /dev/null > Packages;
 
 rm Packages.bz2;
-bzip2 -z Packages
+bzip2 -z Packages; 
+git add --all;
+git commit -m "Update";
+git push 
