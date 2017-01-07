@@ -1,6 +1,5 @@
-Welcome to my main GitHub repository 😄
-This readMe is mostly for me 😂
+<h3> Welcome to my main GitHub repository! </h3>
 
-Run `./packageMe` to make a fully zipped up package.bz2 file 
+This is home to my Cydia repository as well as my main site. 
 
-Run `./push` to properly push everything out 😝
+If you have any questions feel free to [reach out](https://ipadkid358.github.io/home/#contact) in whatever way's convenient  
