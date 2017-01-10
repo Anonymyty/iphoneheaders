@@ -1,4 +1,4 @@
-#!/private/var/db/stash/_.Gg8VfP/bin/perl
+#!/usr/bin/perl
 push(@INC, '/use/bin/dpkg-gettext.pl');
 
 use warnings;
