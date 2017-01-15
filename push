@@ -1,5 +1,6 @@
 #!/bin/bash
 
+cd /var/mobile/ipadkid358;
 git add --all;
 git commit -m "Update";
 git push 

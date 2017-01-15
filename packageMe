@@ -1,5 +1,6 @@
 #!/bin/bash
 
+cd /var/mobile/ipadkid358;
 ./dpkg-scanpackages debs /dev/null > Packages;
 rm Packages.bz2;
 bzip2 -z Packages; 
