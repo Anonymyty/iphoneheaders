@@ -1,41 +1,35 @@
 /*
-	Identity by HTML5 UP
+	Dimension by HTML5 UP
 	html5up.net | @ajlkn
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 */
 
-/* Basic */
+/* BG */
 
-	body {
-		background-image: url("../../images/bg.jpg");
-		background-repeat: no-repeat;
-		background-size: cover;
-		background-position: bottom center;
-		background-attachment: fixed;
+	#bg:before {
+		background: rgba(19, 21, 25, 0.5);
 	}
 
-		body:after {
-			display: none;
+/* Header */
+
+	#header .logo {
+		margin: 0 auto;
+	}
+
+	#header .content {
+		display: inline-block;
+	}
+
+	#header nav ul {
+		display: inline-block;
+	}
+
+		#header nav ul li {
+			display: inline-block;
 		}
-
-/* List */
-
-	ul.icons li a:before {
-		color: #c8cccf;
-	}
-
-	ul.icons li a:hover:before {
-		color: #ff7496;
-	}
-
-/* Wrapper */
-
-	#wrapper {
-		text-align: center;
-	}
 
 /* Main */
 
-	#main {
-		display: inline-block;
+	#main article {
+		margin: 0 auto;
 	}
