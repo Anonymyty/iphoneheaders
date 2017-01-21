@@ -9,7 +9,7 @@ _____
 If you're poking around this repo, I'll quickly explain what everything does: 
 
 - assests - this has everything that allows my [front end site](https://ipadkid358.github.io/) to look nice 
-- assests-404 - same thing but just for my [custom error](https://ipadkid358.github.io/where/) page
+- assests-404 - same thing but just for my [custom error](https://ipadkid358.github.io/where) page
 - debs - this folder contains all the Debian package on my Cydia repo
 - images - holds images for my front end page
 - js - lets Cydia know that this is an acceptable Cydia repository 
@@ -25,4 +25,4 @@ If you're poking around this repo, I'll quickly explain what everything does:
 - index.html - previously mentioned front end site
 - packageMe - script to run dpkg-scanpackges, put that packages file in the correct format, and push everything out to this GitHub repo
 - push - similar script, just doesn't deal with the packages 
-- reafMe.md - this readMe, hopefully
+- readMe.md - this readMe, hopefully
