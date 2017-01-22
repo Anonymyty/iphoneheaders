@@ -1651,7 +1651,8 @@
 	}
 
 	header.major {
-		padding-bottom: 2em;
+		position: relative;
+		text-align: center;
 	}
 
 	header.special {
