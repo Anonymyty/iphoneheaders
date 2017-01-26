@@ -1,0 +1,6 @@
+#!/bin/bash
+
+cd /var/mobile/heads;
+git add --all;
+git commit -m "Update";
+git push 

@@ -1,0 +1,10 @@
+#import <hangtracerd/CacheInfo.h>
+#import <hangtracerd/SymbolInfo.h>
+#import <hangtracerd/BinaryImageSegment.h>
+#import <hangtracerd/BinaryImageCatalog.h>
+#import <hangtracerd/KCContainer.h>
+#import <hangtracerd/StackShotReport.h>
+#import <hangtracerd/OSActivityInfo.h>
+#import <hangtracerd/BreadcrumbMessage.h>
+#import <hangtracerd/ActivityTraceMessage.h>
+#import <hangtracerd/CrashedThreadActivity.h>

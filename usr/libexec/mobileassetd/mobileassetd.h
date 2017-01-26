@@ -1,0 +1,12 @@
+#import <mobileassetd/ASURLSessionManager.h>
+#import <mobileassetd/MobileAssetReport.h>
+#import <mobileassetd/ASDownloadConsumer.h>
+#import <mobileassetd/ASFileDownloadConsumer.h>
+#import <mobileassetd/ASStreamingZipDownloadConsumer.h>
+#import <mobileassetd/ASDownload.h>
+#import <mobileassetd/ASStoreServicesDownloadDelegate.h>
+#import <mobileassetd/ASConnectionManager.h>
+#import <mobileassetd/ASDelayedSerialQueue.h>
+#import <mobileassetd/ASAssetRepository.h>
+#import <mobileassetd/ASAssetMetadataDownloader.h>
+#import <mobileassetd/ASAssetMetadataUpdatePolicy.h>
